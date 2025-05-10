@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "name": "a1",
+      "email": "hack@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "a1",
+      "email": "fdf@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "user1",
+      "email": "user1@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "user1",
+      "email": "user1@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "user1",
+      "email": "user1@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "user1",
+      "email": "user1@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "user1",
+      "email": "user1@gmail.com",
+      "id": 7
+    }
+  ]
+}
